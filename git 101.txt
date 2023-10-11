@@ -1,0 +1,15 @@
+pwd
+   21  ls -l
+   22  git init
+   23  git status
+   24  git commit -m "hjvjh"
+   25  ls -l
+   26  git status
+   27  git commit -m "hjhjv"
+   28  git add .
+   29  git commit -m "jkb"
+   30  git status
+   31  git remote add user https://github.com/Shrikanthfd/xyz.git
+   32  git pusu -u user master
+   33  git push -u user master
+   34  history
